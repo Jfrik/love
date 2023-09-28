@@ -1,0 +1,22 @@
+
+.card{color: #61499a;
+font-family: 'Robota' sans-serif;
+font-size: 30px;
+font-style: italic;
+font-weight: 400;
+
+}
+.tt a {color: rgb(140, 63, 170)}
+.ee p {background: #d6b8b8; }
+
+/* love */
+.fr{ background: linear-gradient( 135deg ,#c307b6,#259cf7, #cb1adf,#bd0ad1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent ;
+font-size: 40px;
+font-style: italic;}
+
+.text{ background: linear-gradient( 135deg ,#c307b6,#259cf7, #cb1adf,#bd0ad1);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent ;
+}
